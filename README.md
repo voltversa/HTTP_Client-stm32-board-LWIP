@@ -1,12 +1,9 @@
 # HTTP_Client-stm32-board-LWIP
-# Title of the project
-
 STM32F746G-DISCO Network Weather station (FPGA → PC → PHP/Apache → STM32)
 
 # by
-
-Mahmoud Mostafa (R0997618)
-
+Voltversa
+---
 # Brief description
 
 This project builds an end‑to‑end weather telemetry pipeline:
