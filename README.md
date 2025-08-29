@@ -1,8 +1,9 @@
 # HTTP_Client-stm32-board-LWIP
 STM32F746G-DISCO Network Weather station (FPGA → PC → PHP/Apache → STM32)
 
-# by
-Voltversa
+# by Voltversa
+![Alt text](proj.png)
+
 ---
 # Brief description
 
