@@ -1,0 +1,11 @@
+
+#ifndef HUMIDITY_H_
+#define HUMIDITY_H_
+
+#define HUMIDITY_DATA_X_PIXEL   100
+#define HUMIDITY_DATA_Y_PIXEL   100
+#define HUMIDITY_DATA_TOT_PIXEL 10000
+#define HUMIDITY_DATA_FORMAT    LTDC_PIXEL_FORMAT_ARGB1555
+extern const unsigned short HUMIDITY_DATA[];
+
+#endif /* INC_LOGO_H_ */

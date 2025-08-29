@@ -1,0 +1,10 @@
+#ifndef PRESSURE_H_
+#define PRESSURE_H_
+
+#define PRESSURE_DATA_X_PIXEL   100
+#define PRESSURE_DATA_Y_PIXEL   100
+#define PRESSURE_DATA_TOT_PIXEL 10000
+#define PRESSURE_DATA_FORMAT    LTDC_PIXEL_FORMAT_ARGB1555
+extern const unsigned short PRESSURE_DATA[];
+
+#endif /* INC_LOGO_H_ */

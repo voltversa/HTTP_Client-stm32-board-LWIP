@@ -1,0 +1,12 @@
+# STM32CubeIDE build files
+Debug/
+Release/
+.build/
+.settings/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
